@@ -1,0 +1,1 @@
+class SchoolClass < ActiveRecord::Base
